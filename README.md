@@ -1,3 +1,4 @@
+###Vue.js
 ### 默认导入和命名导入 
 1. import theDefault,{named1,named2} from './libs/index'
 2. import theDefault from './libs/index
